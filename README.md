@@ -6,7 +6,7 @@ A Discord Bot written in Python which helps us to solve Math problems, Converts 
 
 ## Using the bot
 ### Bot commands
-The bot can be called into action using `!wolf` which also provides a list of commands:
+The bot can be called into action using `!` which also provides a list of commands:
 
 Command       | Description
 ------------- | -------------
