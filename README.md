@@ -2,6 +2,7 @@
 A Discord Bot written in Python which helps us to solve Math problems, Converts Binary to Decimal & Many More.
 
 ## Invitation Link :
+[Belco Bot Invitation Link](https://discord.com/api/oauth2/authorize?client_id=847096639704793153&permissions=0&scope=bot)
 
 ## Using the bot
 ### Bot commands
