@@ -13,6 +13,7 @@ Command       | Description
 !hi           | Replies Namaste
 !quote        | Gives Random Quotes
 !math \<query\>   | Solves any Math Problem
+!spam \<query\>  | Spam any messages for infinity times (currently restricted to 10)
 !decimal \<query\>  | Converts Binary Numbers into Decimal
 !wikipedia \<query\>  | Gives the First 3 Sentences of Search result from Wikipedia
 !weather \<query\>  | Gives Live Weather Report
