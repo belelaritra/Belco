@@ -10,11 +10,14 @@ The bot can be called into action using `!` which also provides a list of comman
 
 Command       | Description
 ------------- | -------------
+!Command      | Gives All Commands List of Belco Bot
 !hi           | Replies Namaste
 !quote        | Gives Random Quotes
-!math \<query\>   | Solves any Math Problem
-!spam \<query\> \<no_of_times\> | Spam any messages for infinity times (currently restricted upto 10)
-!decimal \<query\>  | Converts Binary Numbers into Decimal
+!math \<problem\>   | Solves any Math Problem
+!spam \<message\> \<no_of_times\> | Spam any messages for infinity times (Currently Restricted upto 10)
+!decimal \<number\>  | Converts Binary Numbers into Decimal
+!binary \<number\>  | Converts Decimal Numbers into Binary
 !wikipedia \<query\>  | Gives the First 3 Sentences of Search result from Wikipedia
-!weather \<query\>  | Gives Live Weather Report
+!weather \<city\>  | Gives Live Weather Report of That City
+!covid \<city\>  | Gives Live Covid Details of That City (Currently Available in West Bengal Only)
 Hindi Swear Words | Warns The Commenter
