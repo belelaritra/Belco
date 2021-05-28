@@ -2,7 +2,7 @@
 A Multi Talented Discord Bot Written in Python.
 
 ## Invitation Link :
-[Belco Bot Invitation Link](https://discord.com/api/oauth2/authorize?client_id=847096639704793153&permissions=0&scope=bot)
+Currently The Bot is under Construction Phase
 
 ## Using the bot
 ### Bot commands
