@@ -20,4 +20,5 @@ Command       | Description
 !wikipedia \<query\>  | Gives the First 3 Sentences of Search result from Wikipedia
 !weather \<city\>  | Gives Live Weather Report of That City
 !covid \<city\>  | Gives Live Covid Details of That City (Currently Available in West Bengal Only)
+!vaccine \<pincode\>  | Gives Vaccine Availability Details of Your Area
 Hindi Swear Words | Warns The Commenter
