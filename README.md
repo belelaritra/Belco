@@ -27,6 +27,8 @@ Command                               | Description
 Command                               | Description
 ------------------------------------- | -------------------------------------
 `!hi`                                 | Replies Namaste
+`!clear` `<amount>`                   | Deletes N numbers of old messages in a text channel (N=amount)
+`!ss` `<query>`                       | Searches that query & replies that with a screenshot
 `!quote`                              | Gives Random Quotes
 `!math` `<problem>`                   | Solves any Math Problem
 `!spam` `<message>` `<no_of_times>`   | Spam any messages for infinity times (Currently Restricted upto 10)
