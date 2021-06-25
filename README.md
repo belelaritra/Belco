@@ -39,4 +39,3 @@ Command                               | Description
 `!covid` `<city>`                     | Gives Live Covid Details of That City (Currently Available in West Bengal Only)
 `!vaccine` `<pincode>`                | Gives Vaccine Availability Details of Your Area
 `!oxygen` `<district>`                | Gives 3 Oxygen Providers Contact No. in your District (Currently Available in West Bengal Only)
-Hindi Swear Words                     | Warns The Commenter
