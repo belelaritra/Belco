@@ -319,7 +319,6 @@ async def covid(ctx, city: str):
         embedVar.add_field(name="Population :", value=population, inline=True)
         embedVar.add_field(name="Vaccinated Dose 1:", value=vaccinated1, inline=True)
         embedVar.add_field(name="Vaccinated Dose 2:", value=vaccinated2, inline=True)
-        # embedVar.add_field(name='\u200b', value='\u200b', inline=True)
         await ctx.channel.send(embed=embedVar)
     except:
         try:
@@ -356,7 +355,6 @@ async def weather(ctx, query: str):
     temp_max = round(json_data['main']['temp_max'] - 273, 2)
     speed = json_data['wind']['speed']
     pressure = json_data['main']['pressure']
-    # await message.channel.send("**Temperature** = " + str(temp) + "°C\n**Max** = " + str(temp_max) + "°C  |  **Min** = " + str(temp_min) + "°C  |  **Feels Like** = " + str(feels_like) + "°C\n**Wind Speed** = " + str(speed) + "m/s  |  **Pressure** = " + str(pressure) + "hPa")
     embedVar = discord.Embed(title=query.capitalize(), description=d1, color=discord.Colour.random())
     embedVar.add_field(name="Temperature :", value=str(temp) + " °C", inline=True)
     embedVar.add_field(name="Max :", value=str(temp_max) + " °C", inline=True)
