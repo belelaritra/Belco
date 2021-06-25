@@ -22,12 +22,6 @@ waclient = wolframalpha.Client('___WA KEY___')
 # CLIENT
 client = commands.Bot(command_prefix="!")
 
-# SWEAR WORDS LIST
-swear_words = ["Motherchod", "motherchod", "Mother chod", "Mother Chod", "Behenchod", "behenchod", "Behen chod",
-               "Behen Chod", "Betichod", "betichod", "Beti chod", "Beti Chod", "Randi", "Rundi", "Rendi", "randi",
-               "rundi", "rendi", "Chut", "chut", "Lawde", "Lavde", "lavde", "lawde", "bsdk", "BSDK", "Bsdk", "Fuck",
-               "fuck", "bokachoda", "harami", "khanki", "chutiya"]
-
 #Oxygen Dist
 oxy_dict = {'Alipurduar': 719,
             'Bankura': 720,
